@@ -29,6 +29,7 @@
 			<artifactId>spring-webmvc</artifactId>
 			<version>4.3.12.RELEASE</version>
 		</dependency>
+		<!-- Tomcat Servlet관련 Library -->
 		<dependency>
 			<groupId>javax.servlet</groupId>
 			<artifactId>javax.servlet-api</artifactId>
